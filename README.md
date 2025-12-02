@@ -1,21 +1,35 @@
-Hey there!
+# Hey there, I'm Jihad
 
-𝖨’𝗆 Jihad, 𝗃𝗎𝗌𝗍 𝖺 𝗋𝖾𝗀𝗎𝗅𝖺𝗋 𝗀𝗎𝗒. 𝖨'𝗆 𝗇𝗈𝗍 𝗌𝗉𝖾𝖼𝗂𝖺𝗅 𝖻𝗎𝗍 𝖨'𝗆 𝖺 𝗁𝖺𝗋𝖽 𝗐𝗈𝗋𝗄𝖾𝗋 𝖺𝗇𝖽 𝖺 𝖿𝖺𝗌𝗍 𝗅𝖾𝖺𝗋𝗇𝖾𝗋 𝗅𝗂𝗄𝖾 𝗆𝗈𝗌𝗍 𝗈𝖿 𝗍𝗁𝖾 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋𝗌... 
+I'm just a regular guy. Not special, but a hard worker and a fast learner who enjoys solving real problems through code. I like to keep things simple, readable, and meaningful.
 
-𝖬𝗒 𝖼𝗎𝗋𝗋𝖾𝗇𝗍 𝗌𝗍𝖺𝖼𝗄 𝗂𝗌:
+---
 
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: 𝖱𝖾𝖺𝖼𝗍, 𝖭𝖾𝗑𝗍.𝗃𝗌, 𝖡𝗈𝗈𝗍𝗌𝗍𝗋𝖺𝗉, 𝖲𝖺𝗌𝗌, 𝖳𝖺𝗂𝗅𝗐𝗂𝗇𝖽
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱: 𝖭𝗈𝖽𝖾.𝗃𝗌, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌, 𝖦𝗈
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: 𝖯𝗈𝗌𝗍𝗀𝗋𝖾𝖲𝖰𝖫, 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
-𝗢𝗥𝗠: 𝖯𝗋𝗂𝗌𝗆𝖺
-𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖭𝖦𝖨𝖭𝖷, 𝖠𝖶𝖲, 𝖦𝗂𝗍𝖧𝗎𝖻 𝖠𝖼𝗍𝗂𝗈𝗇𝗌 (𝖢𝖨/𝖢𝖣)
-𝗧𝗲𝘀𝘁𝗶𝗻𝗴: 𝖩𝖾𝗌𝗍, 𝖲𝗎𝗉𝖾𝗋𝖙𝖾𝗌𝗍, 𝖱𝖾𝖺𝖼𝗍 𝖳𝖾𝗌𝗍𝗂𝗇𝗀
-𝗖𝗼𝗿𝗲 𝗦𝘁𝗿𝗲𝗻𝗀𝗍𝗁𝘀: 𝖳𝗒𝗉𝖾𝖲𝖼𝗋𝗂𝗉𝗍, 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍, 𝖲𝖰𝖫, 𝖣𝖺𝗍𝖺 𝖲𝗍𝗋𝗎𝖼𝗍𝗎𝗋𝖾𝗌, 𝖠𝗅𝗀𝗈𝗋𝗂𝗍𝗁𝗆𝗌, 𝖮𝖮𝖯
+### My Current Tech Stack
 
-𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 Nexora.
+**Frontend:** React, Next.js, Bootstrap, Sass, Tailwind CSS  
+**Backend:** Node.js, Express.js, Go  
+**Database:** PostgreSQL, MongoDB  
+**ORM:** Prisma  
+**Infrastructure:** Docker, NGINX, AWS, GitHub Actions (CI/CD)  
+**Testing:** Jest, Supertest, React Testing Library  
+**Core Strengths:** TypeScript, JavaScript, SQL, Data Structures, Algorithms, OOP  
 
-𝖥𝗎𝗇 𝖥𝖺𝖼𝗍𝗌:
+---
 
-𝖥𝗈𝗋𝗆𝖾𝗋 𝖣𝗂𝗀𝗂𝗍𝖺𝗅 𝖬𝖺𝗋𝗄𝖾𝗍𝖾𝗋
-𝖤𝗏𝖾𝗋𝗒𝖽𝖺𝗒 𝗂𝗌 𝖺 𝖻𝖺𝗍𝗍𝗅𝖾𝖿𝗂𝖾𝗅𝖽 𝖨 𝖺𝗆 𝖿𝗂𝗀𝗁𝗍𝗂𝗇𝗀
-𝖧𝗈𝖻𝖻𝗂𝖾𝗌: 𝖼𝗈d𝗂𝗇𝗀, 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀, 𝖺𝗇𝗂𝗆𝖾, 𝗍𝗋𝖺𝗏𝖾𝗅, 𝗀𝖺𝗆𝗂𝗇𝗀
+### Favorite Project
+
+Nexora — a project that challenged me, taught me, and still inspires me to build better.
+
+---
+
+### Fun Facts
+
+Former digital marketer turned developer.  
+Every day is a battlefield where I keep learning and improving.  
+In my free time, I enjoy coding, exploring new ideas, watching anime, traveling, and gaming.
+
+---
+
+### Motto
+
+Keep building. Keep breaking. Keep getting better.
