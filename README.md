@@ -1,7 +1,6 @@
 # Hey there, I'm Jihad
 
-I'm just a regular guy. Not special, but a hard worker and a fast learner who enjoys solving real problems through code. I like to keep things simple, readable, and meaningful.
-
+I'm a regular guy. I'm not special, but a hard worker and a fast learner like most developers. I'm not one of those "genius" developers, but I put my hard work and energy into every line of code I write. I’m experienced in React, Next.js, TypeScript, and modern backend systems, with a strong focus on clean code, performance, and scalable application development.
 ---
 
 ### My Current Tech Stack
@@ -19,14 +18,6 @@ I'm just a regular guy. Not special, but a hard worker and a fast learner who en
 ### Favorite Project
 
 Nexora — a project that challenged me, taught me, and still inspires me to build better.
-
----
-
-### Fun Facts
-
-Former digital marketer turned developer.  
-Every day is a battlefield where I keep learning and improving.  
-In my free time, I enjoy coding, exploring new ideas, watching anime, traveling, and gaming.
 
 ---
 
