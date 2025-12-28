@@ -1,7 +1,8 @@
 # Hey there, I'm Jihad
 
 ---
-I'm a regular guy. I'm not special, but a hard worker and a fast learner like most developers. I'm not one of those "genius" developers, but I put my hard work and energy into every line of code I write. I’m experienced in React, Next.js, TypeScript, and modern backend systems, with a strong focus on clean code, performance, and scalable application development.
+I'm a regular developer who believes consistency and effort matter more than being a “genius.” I’m a fast learner and a hard worker, and I put care into every line of code I write.
+I work with React, Next.js, TypeScript, and modern backend systems, focusing on clean code, performance, and building scalable applications.
 
 ### My Current Tech Stack
 
