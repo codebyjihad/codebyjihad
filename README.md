@@ -18,7 +18,7 @@ I work with React, Next.js, TypeScript, and modern backend systems, focusing on 
 
 ### Favorite Project
 
-Nexora — a project that challenged me, taught me, and still inspires me to build better.
+code-nebula  
 
 ---
 
