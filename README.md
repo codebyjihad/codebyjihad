@@ -7,7 +7,7 @@ I work with React, Next.js, TypeScript, and modern backend systems, focusing on 
 ### My Current Tech Stack
 
 **Frontend:** React, Next.js, Bootstrap, Sass, Tailwind CSS  
-**Backend:** Node.js, Express.js, Go  
+**Backend:** Node.js, Express.js,   
 **Database:** PostgreSQL, MongoDB  
 **ORM:** Prisma  
 **Infrastructure:** Docker, NGINX, AWS, GitHub Actions (CI/CD)  
