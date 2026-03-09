@@ -1,4 +1,4 @@
-# Hey there, I'm Jihad
+# Hey there, I'm Jihad Ahmed
 
 ---
 I’m a developer who values consistency and hard work. I enjoy solving problems.
