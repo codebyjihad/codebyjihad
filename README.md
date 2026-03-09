@@ -9,14 +9,12 @@ I’m a developer who values consistency and hard work. I enjoy solving problems
 **Backend:** Node.js, Express.js, Go   
 **Database:** PostgreSQL, MongoDB  
 **ORM:** Prisma  
-**Infrastructure:** Docker, NGINX, AWS, GitHub Actions (CI/CD)  
 **Testing:** Jest, Supertest, React Testing Library  
 **Core Strengths:** TypeScript, JavaScript, SQL, Data Structures, Algorithms, OOP  
 
 ---
 
 ## Favorite Project
-
 [code-nebula]('example')  
 ### Motto
 Keep building. Keep breaking. Keep getting better.
