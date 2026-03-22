@@ -6,7 +6,7 @@ I’m a developer who values consistency and hard work. I enjoy solving problems
 ### My Current Tech Stack
 
 **Frontend:** React, Next.js, Bootstrap, Sass, Tailwind CSS  
-**Backend:** Node.js, Express.js, Go   
+**Backend:** Node.js, Express.js
 **Database:** PostgreSQL, MongoDB  
 **ORM:** Prisma  
 **Core Strengths:** TypeScript, JavaScript, SQL, Data Structures, Algorithms, OOP  
