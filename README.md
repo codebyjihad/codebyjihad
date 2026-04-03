@@ -14,6 +14,6 @@ I’m a developer who values consistency and hard work. I enjoy solving problems
 ---
 
 ## Favorite Project
-[code-nebula]('example')  
+[next_aura]('https://github.com/codebyjihad/Next_Aura')  
 ### Motto
 Keep building. Keep breaking. Keep getting better.
